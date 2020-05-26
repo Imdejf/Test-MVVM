@@ -1,0 +1,9 @@
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\bin\Debug\netcoreapp3.1\Nauka.library.deps.json
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\bin\Debug\netcoreapp3.1\Nauka.library.dll
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\bin\Debug\netcoreapp3.1\Nauka.library.pdb
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\obj\Debug\netcoreapp3.1\Nauka.library.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\obj\Debug\netcoreapp3.1\Nauka.library.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\obj\Debug\netcoreapp3.1\Nauka.library.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\obj\Debug\netcoreapp3.1\Nauka.library.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\obj\Debug\netcoreapp3.1\Nauka.library.dll
+C:\Users\dawid\source\repos\Nauka.library\Nauka.library\obj\Debug\netcoreapp3.1\Nauka.library.pdb

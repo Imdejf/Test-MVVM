@@ -1,0 +1,15 @@
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.EntityFrameWork.deps.json
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.EntityFrameWork.dll
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.library.dll
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.EntityFrameWork.runtimeconfig.json
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.EntityFrameWork.runtimeconfig.dev.json
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.EntityFrameWork.pdb
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\bin\Debug\netcoreapp3.1\Nauka.library.pdb
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.csproj.CopyComplete
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.dll
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.pdb
+C:\Users\dawid\source\repos\Nauka.library\Nauka.EntityFrameWork\obj\Debug\netcoreapp3.1\Nauka.EntityFrameWork.genruntimeconfig.cache
